@@ -2,3 +2,5 @@ Hi Git,
 Nice to meet you
 I like the font.
 Its nice to have dark theme, i like dark theme
+Going forward this is going to be very hard i guess
+But its been nicely explained so ot will be fine with some practice.
